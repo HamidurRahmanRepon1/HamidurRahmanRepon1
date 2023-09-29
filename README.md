@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ![logo](https://github.com/HamidurRahmanRepon1/HamidurRahmanRepon1/blob/main/banner.jpg)
 
 <h1 align="center">Assalamualaikum warahmatullahi wabarakatuh </br> I'm Hamidur Rahman Repon</h1>
-<h3 align="center">I am a professional Android software developer from Bangladesh.</h3>
+<h3 align="center">I am a professional Android software developer from Bangladesh.</h3>**
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" width="400" alt="hamidurrahmanrepon" />
 
