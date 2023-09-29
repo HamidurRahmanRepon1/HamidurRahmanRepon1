@@ -3,12 +3,14 @@ HamidurRahmanRepon1/HamidurRahmanRepon1 is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Hamidur Rahman Repon</h1>
+![logo](https://github.com/HamidurRahmanRepon1/HamidurRahmanRepon1/blob/main/banner.jpg)
+
+<h1 align="center">Assalamualaikum warahmatullahi wabarakatuh </br> I'm Hamidur Rahman Repon</h1>
 <h3 align="center">I am a professional Android software developer from Bangladesh.</h3>
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" width="400" alt="hamidurrahmanrepon" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidurrahmanrepon1&label=Profile%20views&color=0e75b6&style=flat" alt="hamidurrahmanrepon1" /> </p>
 
 - 📝 I regularly write articles on [https://codewithhamidur.blogspot.com](https://codewithhamidur.blogspot.com)
 
@@ -25,3 +27,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidurrahmanrepon1&show_icons=true&locale=en&layout=compact" alt="hamidurrahmanrepon1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidurrahmanrepon1&show_icons=true&locale=en" alt="hamidurrahmanrepon1" /></p>
+
